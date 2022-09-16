@@ -1,5 +1,5 @@
 void setup() { 
-  size (1000, 1000);
+  size (500, 500);
 }
     void draw() { //prints out the thingy for you to see :)
     drawLoop (10, 10);
